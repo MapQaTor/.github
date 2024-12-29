@@ -28,7 +28,7 @@ In summary, we have made the following key contributions:
 - We implement caching of API responses to ensure a consistent ground truth, enhancing the reliability of QA tasks over time.
 - We evaluate MapQaTor to estimate its usefulness and efficiency. 
 
-## Snapshots
+## 📸 Snapshots
 
 ![Alt text](snapshots.png)
 
