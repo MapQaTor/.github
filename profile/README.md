@@ -9,6 +9,7 @@
 </p>
 
 ## 📢 Updates
+- 2024-12-29: We have released our [paper](https://arxiv.org/abs/2404.07972) and [website](https://mapqator.github.io/). Check it out!
 - 2024-12-16: Paper submitted to NAACL 2025 Demo Track.
 - 2024-08-06: Paper submitted to EMNLP 2024 Demo Track (Rating: 5,6,7).
 
