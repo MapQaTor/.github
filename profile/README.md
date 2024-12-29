@@ -32,16 +32,17 @@ In summary, we have made the following key contributions:
 ## 🛠️ Implementation Details
 
 - **Frontend**: The frontend is built using Next.js, Tailwind CSS and Material-UI. The codebase is available [here](https://github.com/mapqator/mapqator.github.io).
-- **Backend**: The backend is built using Node JS and Express JS. The codebase is available [here](https://github.com/mapqator/mapqator-backend)
+- **Backend**: The backend is built using Node JS and Express JS. The codebase is available [here](https://github.com/mapqator/mapqator-backend).
 - **Database**: PostgreSQL is used as the database system. The database schema is available [here](https://github.com/mapqator/mapqator-backend/blob/master/database/schema.sql).
 
-<!-- ## Citation
+## 📝 Citation
 If you use our website for annotation, please cite our paper:
 ```
-@article{zhou2023webarena,
-  title={WebArena: A Realistic Web Environment for Building Autonomous Agents},
-  author={Zhou, Shuyan and Xu, Frank F and Zhu, Hao and Zhou, Xuhui and Lo, Robert and Sridhar, Abishek and Cheng, Xianyi and Bisk, Yonatan and Fried, Daniel and Alon, Uri and others},
-  journal={arXiv preprint arXiv:2307.13854},
-  year={2023}
+@misc{
+    dihan2024mapqator,
+    title={MapQaTor: A System for Efficient Annotation of Map Query Datasets},
+    author={Mahir Labib Dihan and Mohammed Eunus Ali and Md Rizwan Parvez},
+    year={2024},
+    url={https://openreview.net/forum?id=rkRzlJVM4v}
 }
-``` -->
+```
