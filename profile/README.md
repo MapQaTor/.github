@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://youtu.be/7_aV9Wmhs6Q">🎬 Demo</a> •
     <a href="https://mapqator.github.io/">🌐 Website</a> •
-    <a href="paper.pdf">📃 Paper</a> •
+    <a href="https://arxiv.org/abs/2412.21015">📃 Paper</a> •
     <a href="https://github.com/orgs/mapqator/repositories">💻 Code</a>
 </p>
 
