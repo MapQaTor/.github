@@ -48,10 +48,13 @@ In summary, we have made the following key contributions:
 If you use our website for annotation, please cite our paper:
 ```
 @misc{
-    dihan2024mapqator,
-    title={MapQaTor: A System for Efficient Annotation of Map Query Datasets},
+    dihan2024mapqatorefficientannotationmap,
+    title={MapQaTor: A System for Efficient Annotation of Map Query Datasets}, 
     author={Mahir Labib Dihan and Mohammed Eunus Ali and Md Rizwan Parvez},
     year={2024},
-    url={https://openreview.net/forum?id=rkRzlJVM4v}
+    eprint={2412.21015},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2412.21015}, 
 }
 ```
