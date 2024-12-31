@@ -2,14 +2,16 @@
 
 
 <p align="center">
+    <a href="https://arxiv.org/abs/2412.21015">📃 Paper</a> •
+    <a href="https://github.com/orgs/mapqator/repositories">💻 Code</a> •
     <a href="https://youtu.be/7_aV9Wmhs6Q">🎬 Demo</a> •
     <a href="https://mapqator.github.io/">🌐 Website</a> •
-    <a href="https://arxiv.org/abs/2412.21015">📃 Paper</a> •
-    <a href="https://github.com/orgs/mapqator/repositories">💻 Code</a>
+    <a href="https://mapqator.github.io/">🏠 Homepage</a>
 </p>
 
 ## 📢 Updates
 
+- 2024-12-30: We have released our [paper](https://arxiv.org/abs/2412.21015) and [website](https://mapqator.github.io/). Check it out!
 - 2024-10-17: Major updates for NAACL 2025 Demo Track submission. This version is live [here](https://mapqator.github.io/).
 - 2024-07-30: Major updates for EMNLP 2024 Demo Track submission. This version is live [here](https://mahirlabibdihan.github.io/mapquest).
 - 2024-04-29: The first version of the website for annotating the [MapEval](https://mapeval.github.io/) benchmark is deployed. This version is live [here](https://mahirlabibdihan.github.io/mapquest/old-home).
