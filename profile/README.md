@@ -49,14 +49,10 @@ In summary, we have made the following key contributions:
 ## 📝 Citation
 If you use our website for annotation, please cite our paper:
 ```
-@misc{
-    dihan2024mapqatorefficientannotationmap,
-    title={MapQaTor: A System for Efficient Annotation of Map Query Datasets}, 
-    author={Mahir Labib Dihan and Mohammed Eunus Ali and Md Rizwan Parvez},
-    year={2024},
-    eprint={2412.21015},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL},
-    url={https://arxiv.org/abs/2412.21015}, 
+@article{dihan2024mapqator,
+  title={MapQaTor: A System for Efficient Annotation of Map Query Datasets},
+  author={Dihan, Mahir Labib and Ali, Mohammed Eunus and Parvez, Md Rizwan},
+  journal={arXiv preprint arXiv:2412.21015},
+  year={2024}
 }
 ```
