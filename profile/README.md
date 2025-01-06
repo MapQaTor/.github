@@ -1,5 +1,9 @@
-# MapQaTor: A System for Efficient Annotation of Map Query Datasets
 
+<div align="center">
+
+<h1># MapQaTor: A System for Efficient Annotation of Map Query Datasets</h1>
+
+</div>
 
 <p align="center">
     <a href="https://huggingface.co/paper/2412.21015">📃 Paper</a> •
@@ -8,6 +12,8 @@
     <a href="https://mapqator.github.io/">🌐 Website</a> •
     <a href="https://mapqator.github.io/paper">🏠 Homepage</a>
 </p>
+
+![Alt text](overview.png)
 
 ## 📢 Updates
 
@@ -26,7 +32,7 @@ Mapping and navigation services like Google Maps, Apple Maps, Openstreet Maps, a
 
 ## 🌎 MapQaTor Overview
 
-![Alt text](overview.png)
+
 
 We present **MapQaTor**, a web application designed to streamline the creation of map-based QA datasets. MapQaTor empowers researchers to seamlessly integrate with any map API in a plug-and-play manner, enabling them to gather, visualize, and annotate geospatial data with minimal setup. By caching API responses, the platform ensures a consistent ground truth, which enhances the reliability of the datasets, even as real-world information evolves over time.
 In summary, we have made the following key contributions:
