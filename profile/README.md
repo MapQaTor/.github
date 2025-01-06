@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h1># MapQaTor: A System for Efficient Annotation of Map Query Datasets</h1>
+<h1>MapQaTor: A System for Efficient Annotation of Map Query Datasets</h1>
 
 </div>
 
