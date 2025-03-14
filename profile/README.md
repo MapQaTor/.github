@@ -10,7 +10,7 @@
     <a href="https://github.com/orgs/mapqator/repositories">💻 Code</a> •
     <a href="https://youtu.be/7_aV9Wmhs6Q">🎬 Demo</a> •
     <a href="https://mapqator.github.io/">🌐 Website</a> •
-    <a href="https://mapqator.github.io/paper">🏠 Homepage</a>
+    <a href="https://mapqator.github.io/project">🏠 Homepage</a>
 </p>
 
 ![Alt text](overview.png)
