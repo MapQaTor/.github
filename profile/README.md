@@ -16,6 +16,7 @@
 
 ## 📢 Updates
 
+-   2025-07-28: Presented at ACL 2025.
 -   2025-05-23: Accepted to ACL 2025 Demo Track. We are excited to present our work at the conference!
 -   2025-03-15: Minor updates for ACL 2025 Demo Track submission. This version is live [here](https://mapqator.github.io/).
 -   2024-12-30: We have released our [paper](https://arxiv.org/abs/2412.21015) and [website](https://mapqator.github.io/). Check it out!
