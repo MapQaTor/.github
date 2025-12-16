@@ -8,6 +8,7 @@
     <a href="https://huggingface.co/paper/2412.21015">📃 Paper</a> •
     <a href="https://github.com/orgs/mapqator/repositories">💻 Code</a> •
     <a href="https://youtu.be/bVv7-NYRsTw">🎬 Demo</a> •
+    <a href="https://docs.google.com/presentation/d/1tIOl7Ws-ifhv1IqlING8n3I1WHjXcRGG1gX4Ajplufc/edit?usp=sharing">📊 Slides</a> •
     <a href="https://mapqator.github.io/">🌐 Website</a> •
     <a href="https://mapqator.github.io/project">🏠 Homepage</a>
 </p>
@@ -66,4 +67,5 @@ If you use our website for annotation, please cite our paper:
   year={2025}
 }
 ```
+
 
